@@ -1,5 +1,9 @@
 # Celsius to Fahrenheit Conversion Web App - GitOps Implementation
 
+## Source Article
+
+https://medium.com/@disha.20.10/unpacking-gitops-a-github-to-eks-odyssey-through-terraform-and-argocd-with-github-actions-71834945b6e5
+
 ## Overview
 This repository demonstrates an advanced GitOps workflow using GitHub Actions, ArgoCD, Terraform, and AWS EKS for a Python Flask application that converts temperatures from Celsius to Fahrenheit.
 
